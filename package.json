@@ -14,8 +14,8 @@
     "url": "git+https://github.com/orctamer/lodestone.git"
   },
   "dependencies": {
-    "request-promise" : "^4.2.1",
-    "cheerio" : "^0.22.0"
+    "cheerio": "^0.22.0",
+    "request-promise": "^4.2.1"
   },
   "keywords": [
     "lodestone",
