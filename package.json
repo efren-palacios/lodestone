@@ -1,0 +1,32 @@
+{
+  "name": "lodestone",
+  "version": "1.0.0",
+  "description": "Api wrapper for lodestone written in JS",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orctamer/lodestone.git"
+  },
+  "dependencies": {
+    "request-promise" : "^4.2.1",
+    "cheerio" : "^0.22.0"
+  },
+  "keywords": [
+    "lodestone",
+    "final",
+    "fantasy",
+    "ffxiv"
+  ],
+  "author": "orctamer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orctamer/lodestone/issues"
+  },
+  "homepage": "https://github.com/orctamer/lodestone#readme"
+}
