@@ -18,7 +18,7 @@ Install via [npm](https://npmjs.com)
 To run the example:
 
     $ npm install
-    $ node examples/movie.js
+    $ node test.js
     
 ## API / Usage
 
