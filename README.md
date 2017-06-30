@@ -7,7 +7,7 @@ api wrapper for lodestone
 [![GitHub stars](https://img.shields.io/github/stars/orctamer/lodestone.svg?style=social&label=Star)](https://github.com/orctamer/lodestone/stargazers)
 
 
-An Lodestone API for grabbing character info
+A Lodestone API for grabbing character info
 
 ## Installing
 Install via [npm](https://npmjs.com)
