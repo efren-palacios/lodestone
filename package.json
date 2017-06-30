@@ -1,6 +1,6 @@
 {
   "name": "lodestonejs",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Api wrapper for lodestone written in JS",
   "main": "index.js",
   "directories": {
